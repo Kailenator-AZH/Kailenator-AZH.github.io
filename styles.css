@@ -4,3 +4,13 @@
 body {
   font-family: sans-serif;
 }
+
+a{
+  text-decoration: none;
+  color: inherit;
+}
+
+#education{
+  color: red;
+  size: 100;
+}
